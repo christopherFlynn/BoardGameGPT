@@ -1,4 +1,4 @@
-# "BoardGameGPT: AI Rule Assistant"
+# BoardGameGPT: AI Rule Assistant
 
 **Project Type**: AI Application | NLP | Q&A System | Kaggle Project
 **Tools Used**: Python, Google Gemini API (Flash & Embedding models), google-genai SDK, Pandas, NumPy, Scikit-learn
@@ -10,7 +10,7 @@
 
 Create a functional and reliable question-answering system capable of understanding natural language questions about specific board game rules and providing accurate answers sourced _only_ from the provided rulebook text, utilizing the power of Large Language Models (LLMs) combined with Retrieval-Augmented Generation (RAG).
 
-### **Key Features**
+## **Key Features**
 
 - **Retrieval-Augmented Generation (RAG) Core**:
 
@@ -35,7 +35,7 @@ Create a functional and reliable question-answering system capable of understand
   - Focuses on the core AI capabilities rather than complex UI or deployment infrastructure.
   - Code includes error handling and API retry logic for robustness.
 
-### **Environment & Implementation Highlights**
+## **Environment & Implementation Highlights**
 
 - Developed and runs entirely within a **Kaggle Notebook**.
 - Utilizes **Kaggle Secrets** for secure management of the Google API Key.
@@ -43,4 +43,4 @@ Create a functional and reliable question-answering system capable of understand
 - Code is documented with Markdown cells explaining each step of the RAG process.
 
 🔗 **Nbviewer:** [Link](https://nbviewer.org/github/christopherFlynn/BoardGameGPT/blob/main/board-game-rule-helper.ipynb)  
-🔗 **View Blog Post:** [Link]({% post_url 2025-04-17-boardgamegpt %})
+🔗 **View Blog Post:** [Link](https://christopherflynn.dev/ai%20projects/natural%20language%20processing/python/boardgamegpt/)
